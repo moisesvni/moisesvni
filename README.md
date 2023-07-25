@@ -13,18 +13,17 @@
 
 
 ## Atividades
-
 <div align="center">
-  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=moisesvni&theme=react&hide_border=true&show_icons=true&custom_title=Grafico%20de%20Contribuicao" />
+  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=moisesvni&theme=vue&hide_border=true&show_icons=true&custom_title=Grafico%20de%20Contribuicao" />
 </div>
 <br/><br/>
 <div>
-  <img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=moisesvni&theme=react&hide_border=true" alt="moisesvni" />
-  
-  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=moisesvni&show_icons=true&theme=react&locale=en&layout=compact&hide_border=true&custom_title=Linguagens%20mais%20Utilizadas" alt="moisesvni" />
-  <br/>
-  <br/>
-<div align="left">
+  <img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=moisesvni&theme=dark&hide_border=true" alt="moisesvni" />
+  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=moisesvni&show_icons=true&theme=dark&locale=en&layout=compact&hide_border=true&custom_title=Linguagens%20mais%20Utilizadas" alt="moisesvni" /> 
+</div>
+<br/>
+<br/>
+<div>
     <img heigth="180em" src="https://github-readme-stats.vercel.app/api?username=moisesvni&show_icons=true&count_private=true&theme=dark" />
 </div>
 
