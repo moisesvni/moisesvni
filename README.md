@@ -4,9 +4,7 @@
 - 🌱 Estudando automação em JavaScript...
 - ⚡ Serralheiro, marceneiro e mestre cervejeiro nas horas vagas!
 
-<div>
-  <img heigth="180em" src="https://github-readme-stats.vercel.app/api?username=moisesvni&show_icons=true&count_private=true&theme=dark">
-</div>
+
 <div style="display:inline_block">
   <img align="center" alt="Moises-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" style="max-width:100%;">
   <img align="center" alt="Moises-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" style="max-width:100%;">
@@ -30,7 +28,7 @@
   <br/>
   <br/>
 <div align="left">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=moisesvni&show_icons=true&theme=react&locale=en&hide_border=true&custom_title=GitHub%20Status%20de%20Moisés%20B. Andrião" alt="moisesvni" />
+    <img heigth="180em" src="https://github-readme-stats.vercel.app/api?username=moisesvni&show_icons=true&count_private=true&theme=dark" />
 </div>
 
 ## Linguagens e Ferramentas
