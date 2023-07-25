@@ -1,15 +1,13 @@
-### Olá, tudo bem? 👋
-<h3 align="center">Sou Moisés um apaixonado por tecnologia</h3>
+<h1 align="center">Olá 👋, sou Moisés Bruneli Andrião</h1>
+<h3 align="center">Um apaixonado por tecnologia... Engenheiro de Software Senior</h3>
 
 <div align="left">
   <img src="https://visitor-badge.feriirawann.repl.co/?username=moisesvni&repo=murilonicemento&style=for-the-badge&label=Visitantes&logo=OpenTelemetry&color=61DAFB&contentType=svg" alt="Contador de Visitas do Perfil no Github do Moises" height="28px" />
 </div>
 
-- 🔭 Hoje trabalho como full-stack .NET Core, JavaScript/TypeScript...
-- 🌱 Estudando automação em JavaScript...
+- 🔭 Hoje trabalho atuo como lider técnico 👨‍🔧  .NET Core, VUE, Angular, React Native (JavaScript/TypeScript)
+- 🌱 Estudando automação IOT em JavaScript...
 - ⚡ Serralheiro, marceneiro e mestre cervejeiro nas horas vagas!
-
-
 
 
 ## Atividades
