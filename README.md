@@ -5,7 +5,7 @@
   <img src="https://visitor-badge.feriirawann.repl.co/?username=moisesvni&repo=murilonicemento&style=for-the-badge&label=Visitantes&logo=OpenTelemetry&color=61DAFB&contentType=svg" alt="Contador de Visitas do Perfil no Github do Moises" height="28px" />
 </div>
 
-- 🔭 Hoje trabalho atuo como lider técnico 👨‍🔧  .NET Core, VUE, Angular, React Native (JavaScript/TypeScript)
+- 🔭 Hoje trabalho como lider técnico 👨‍🔧  .NET Core, VUE, Angular, React Native (JavaScript/TypeScript)
 - 🌱 Estudando automação IOT em JavaScript...
 - ⚡ Serralheiro, marceneiro e mestre cervejeiro nas horas vagas!
 
